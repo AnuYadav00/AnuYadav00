@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Anu Yadav
-- 👀 I’m currently pursuing BTECH CSE(1st year) in UPES DEHRADUN. 
-- 🌱 I’m currently learning C Language and Linux.
-- 💞️ I’m looking to collaborate on primitive project on C Language.
+- 👀 I’m currently pursuing BTECH CSE(2nd Semester) in UPES DEHRADUN. 
+- 🌱 I’m currently learning C Language,Python, and Linux.
+- 💞️ I’m looking to collaborate on primitive project on C Language and python.
 - 📫 How to reach me anuyadav9595@gmail.com
 - 😄 Pronouns: SHE/HER
+- 👩🏻‍🎓 First sem: SGPA = 9.45
 - ⚡ Fun fact: 
 
 <!---
