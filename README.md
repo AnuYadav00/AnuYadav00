@@ -6,7 +6,7 @@
 - 😄 Pronouns: SHE/HER
 - 👩🏻‍🎓 First sem: SGPA = 9.45
 - ⚡ Fun fact: 
-- 🔗 1. Linked In: in/anu-yadav-a15074326 
+- 🔗 1. Linked In: https://in.linkedin.com/in/anu-yadav-a15074326
 - 🔗 2. Github: https://github.com/AnuYadav00
 - 🔗 3. GUVI: https://www.guvi.in/anu1618695990
 - 🔗 4. Leet Code: https://leetcode.com/u/anuyadav00/
